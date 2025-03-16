@@ -8,15 +8,15 @@ const Team = () => {
   const data = [
     {
       "id": 1,
-      "name": "Sanhith",
-      "role": "Developer",
-      "number": "9133897791"
+      "name": "Shiva Sudam",
+      "role": "Student Council President",
+      "number": "9618605095"
     },
     {
       "id": 2,
-      "name": "Aakash",
-      "role": "Designer",
-      "number": "8978882003"
+      "name": "Prince Kumar Singh",
+      "role": "Student Coordinator",
+      "number": "8008574554"
     }
   ]
   
