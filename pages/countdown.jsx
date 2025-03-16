@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 
 function Countdown() {
     const [, forceUpdate] = useReducer(x => x + 1, 0);
-    var countDownDate = new Date("Apr 06, 2024 9:00:00").getTime();
+    var countDownDate = new Date("Apr 03, 2025 9:00:00").getTime();
     var myfunc = setInterval(function () {
         forceUpdate();
     }, 1000);
