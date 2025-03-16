@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Azura 2k24</title>
+        <title>Azura 2k25</title>
         <meta name="description" content="Annual technical symposium of CMRCET" />
         <link rel="icon" href="/favicon.ico" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
