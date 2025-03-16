@@ -46,7 +46,7 @@ export default function Home() {
             <Countdown/>
           </Row>
           <Row className={styles.title}>
-            <h1><span>Events </span>in Azura 2k24</h1>
+            <h1><span>Events </span>in Azura 2k25</h1>
           </Row>
           <Row>
             <Col>
