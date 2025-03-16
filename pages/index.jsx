@@ -29,7 +29,7 @@ export default function Home() {
         <div id="stars3"></div>
           <Row>
             <h1 className={styles.header}>
-              <span>Azura</span>2k24
+              <span>Azura</span>2k25
             </h1>
           </Row>
           <Row className={styles.description}>
@@ -39,7 +39,7 @@ export default function Home() {
           </Row>
           <Row className={styles.description}>
             <h2>
-              6th April 2024
+              3rd April 2025
             </h2>
           </Row>
           <Row>
