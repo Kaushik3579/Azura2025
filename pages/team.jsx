@@ -24,7 +24,7 @@ const Team = () => {
       <div className={styles.container}>
         <Container>
           <Row className={styles.title}>
-            <h1><span>Student Coordinators</span> for Azura 2k24</h1>
+            <h1><span>Student Coordinators</span> for Azura 2k25</h1>
           </Row>
           <Row  xs={1} sm={1} md={2}>
           {
