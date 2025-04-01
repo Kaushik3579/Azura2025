@@ -24,29 +24,39 @@ const TechnicalCSE = () => {
     },
     {
       "_id": 4,
-      "title": "Crack it up",
-      "Organizer": "Suraj, Amulya"
+      "title": "Tech Relay",
+      "Organizer": "P. Anagha Sri Meghana, V. Vanshika"
     },
     {
       "_id": 5,
-      "title": "Blind Coding",
-      "Organizer": "Jaya Sree, Deepak"
+      "title": "Freshman Code Cup (FCC)",
+      "Organizer": "V ANIKETH SRIVATHSA , K SATYANARAYANA "
     },
     {
       "_id": 6,
-      "title": "Logo & UI Designing",
-      "Organizer": "Karthik, Roopak Reddy, Rahul"
+      "title": "Bug Hunt",
+      "Organizer": "K.Akhila, D. Sharanya"
     },
     {
       "_id": 7,
-      "title": "Coding Premier League",
-      "Organizer": "Praveen kumar, K.Shashank, Beta Harshith"
+      "title": "CPL (Coding premier league)",
+      "Organizer": "GUJJULA SAI VARDHAN, BOGA YASHASWI KUMAR"
     },
     {
       "_id": 8,
-      "title": "Fresh Man Code Cup",
-      "Organizer": "Nikhil, sathyanarayana"
-    }
+      "title": "Crack It Up-2.0",
+      "Organizer": "Sharanya Kummari, Madani Manoj Kumar "
+    },
+    {
+      "_id": 9,
+      "title": "Poster presentations on AI",
+      "Organizer": "P.Pranavi, S.Anvitha"
+    },
+    {
+      "_id": 10,
+      "title": "PPT PRESENTATION ",
+      "Organizer": "B.Maheswari, Ch.Architha"
+    },
   ];
  
   return (
