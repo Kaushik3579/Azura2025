@@ -45,7 +45,7 @@ const TechnicalCSE = () => {
     {
       "_id": 8,
       "title": "Fresh Man Code Cup",
-      "Organizer": "Nikhil, Vignesh"
+      "Organizer": "Nikhil, sathyanarayana"
     }
   ];
  
