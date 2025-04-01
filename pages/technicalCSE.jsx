@@ -14,13 +14,13 @@ const TechnicalCSE = () => {
     },
     {
       "_id": 2,
-      "title": "Poster Presentation",
-      "Organizer": "Sindhu Bairoju, Zaneta"
+      "title": "Predict and Win ",
+      "Organizer": "G.Sowmya, N.Vibhas"
     },
     {
       "_id": 3,
-      "title": "Project Expo",
-      "Organizer": "Veena Madhuri, Murali, Arjun"
+      "title": "Blind coding ",
+      "Organizer": "G.Sai ganesh, A. VENKATESHWAR REDDY"
     },
     {
       "_id": 4,
