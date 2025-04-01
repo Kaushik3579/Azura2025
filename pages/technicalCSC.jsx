@@ -9,13 +9,13 @@ const TechnicalCSC = () => {
   const data = [
     {
       "_id": 1,
-      "title": "Mini Hack",
-      "Organizer": "Varun Mochi, B.Charan Tej Goud"
+      "title": "DevDash",
+      "Organizer": "Siddharth PG, Karthik SS"
     },
     {
       "_id": 2,
-      "title": "Bug Bounty",
-      "Organizer": "B.Tanay, B.Maruthi"
+      "title": "Freshman Code Cup (FCC)",
+      "Organizer": "V ANIKETH SRIVATHSA , K SATYANARAYANA "
     },
     {
       "_id": 3,
