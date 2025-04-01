@@ -9,8 +9,8 @@ const TechnicalCSE = () => {
   const data = [
     {
       "_id": 1,
-      "title": "Paper Presentation",
-      "Organizer": "Ruchitha, G.Malini, D.Dinisha"
+      "title": "DevDash",
+      "Organizer": "Siddharth PG,Karthik SS"
     },
     {
       "_id": 2,
